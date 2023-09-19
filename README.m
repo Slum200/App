@@ -1,0 +1,2 @@
+name = slum
+print (" nam ")
